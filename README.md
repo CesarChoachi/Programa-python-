@@ -1,6 +1,6 @@
 # Programa-python-
 Contenido del README para el repositorio
-Copia y pega esto exactamente en el archivo README.md de tu repositorio GitHub:
+
 
 Fase 5 - Evaluación Final POA
 Problema 1: Evaluación de Nivel de Compromiso de Sesiones de Clientes
